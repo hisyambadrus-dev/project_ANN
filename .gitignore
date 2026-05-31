@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+data/dry_bean.zip
+data/Dry_Bean_Dataset.xlsx
+data/Dry_Bean_Dataset.arff
+data/DryBeanDataset/
