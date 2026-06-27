@@ -92,12 +92,8 @@ Semua grafik dan visualisasi disimpan di folder `results/`.
 ### Pembagian Tugas
 | Anggota | Tugas |
 |---------|-------|
-| Anggota 1 | Implementasi From Scratch (NN, Aktivasi, Loss) |
-| Anggota 2 | Implementasi Keras & Eksperimen |
-| Anggota 3 | Data Preprocessing, Evaluasi, Visualisasi |
-| Anggota 4 | Laporan & Presentasi |
-
-*Sesuaikan dengan anggota kelompok Anda.*
+| Muhammad Hakim Farros M | Implementasi From Scratch (NN, Aktivasi, Loss) & Laporan |
+| Hisyam Badrus Syafiq | Implementasi Keras, Eksperimen |
 
 ### Referensi
 1. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
