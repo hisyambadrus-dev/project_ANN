@@ -93,7 +93,7 @@ Semua grafik dan visualisasi disimpan di folder `results/`.
 | Anggota | Tugas |
 |---------|-------|
 | Muhammad Hakim Farros M | Implementasi From Scratch (NN, Aktivasi, Loss) & Laporan |
-| Hisyam Badrus Syafiq | Implementasi Keras, Eksperimen |
+| Hisyam Badrus Syafiq | Implementasi Keras, Eksperimen & Presentasi |
 
 ### Referensi
 1. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
